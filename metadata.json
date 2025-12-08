@@ -1,0 +1,5 @@
+{
+  "name": "TESS Planet Atlas",
+  "description": "An interactive atlas of exoplanets discovered by the TESS mission, featuring AI-powered narratives, image generation, and comparisons with Earth.",
+  "requestFramePermissions": []
+}
